@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Breaking changes
 - Bareos 25 disables SSL on the PostgreSQL connection, as we have observed strange issues with SSL enabled.[Issue #1965]
-- Bareos 25 and later will not modify or extend existing configuration directories on package updates [PR #2338]
+- Bareos 25 and later will not modify or extend existing configuration directories on package updates [PR #2338]<br>
   Note: on FreeBSD unmodified configuration changes from Bareos <= 24 will get removed and
   replaced by the new default configuration of the current package.
 
@@ -220,6 +220,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [PR #2332]: https://github.com/bareos/bareos/pull/2332
 [PR #2333]: https://github.com/bareos/bareos/pull/2333
 [PR #2335]: https://github.com/bareos/bareos/pull/2335
+[PR #2338]: https://github.com/bareos/bareos/pull/2338
 [PR #2340]: https://github.com/bareos/bareos/pull/2340
 [PR #2341]: https://github.com/bareos/bareos/pull/2341
 [PR #2344]: https://github.com/bareos/bareos/pull/2344
