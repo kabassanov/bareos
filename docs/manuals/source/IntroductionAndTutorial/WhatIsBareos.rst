@@ -269,10 +269,10 @@ Bareos Paths
      - :file:`/usr/local/lib/bareos/plugins/`
      - :file:`/var/lib/bareos/storage/`
    * - macOS
-     - :path:`/usr/local/bareos/etc/bareos/`
-     - :path:`/usr/local/bareos/lib/bareos/defaultconfigs/`
-     - :path:`/usr/local/bareos/lib/bareos/scripts/`
-     - :path:`/usr/local/bareos/lib/bareos/plugins/`
+     - :file:`/usr/local/bareos/etc/bareos/`
+     - :file:`/usr/local/bareos/lib/bareos/defaultconfigs/`
+     - :file:`/usr/local/bareos/lib/bareos/scripts/`
+     - :file:`/usr/local/bareos/lib/bareos/plugins/`
      - not used
    * - Windows
      - :path:`C:\\ProgramData\\Bareos\\`
