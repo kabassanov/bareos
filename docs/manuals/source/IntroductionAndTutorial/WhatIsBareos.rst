@@ -240,7 +240,8 @@ For a simple comparison of the two editions, please see the following table:
 
 This binary release policy is in place since Bareos >= 22.
 
-.. _section-BareosBinaryReleasePolicy:
+
+.. _section-BareosPaths:
 
 Bareos Paths
 ------------
