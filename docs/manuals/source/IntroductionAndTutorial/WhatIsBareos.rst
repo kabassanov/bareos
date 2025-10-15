@@ -257,11 +257,11 @@ Bareos Paths
      - Python plugins (default)
      - Storage (default)
    * - Linux
-     - :path:`/etc/bareos/`
-     - :path:`/usr/lib/bareos/defaultconfigs/`
-     - :path:`/usr/lib/bareos/scripts/`
-     - :path:`/usr/lib/bareos/plugins/`
-     - :path:`/var/lib/bareos/storage/`
+     - :file:`/etc/bareos/`
+     - :file:`/usr/lib/bareos/defaultconfigs/`
+     - :file:`/usr/lib/bareos/scripts/`
+     - :file:`/usr/lib/bareos/plugins/`
+     - :file:`/var/lib/bareos/storage/`
    * - FreeBSD
      - :path:`/usr/local/etc/bareos/`
      - :path:`/usr/local/lib/bareos/defaultconfigs/`
