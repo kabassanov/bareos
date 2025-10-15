@@ -263,11 +263,11 @@ Bareos Paths
      - :file:`/usr/lib/bareos/plugins/`
      - :file:`/var/lib/bareos/storage/`
    * - FreeBSD
-     - :path:`/usr/local/etc/bareos/`
-     - :path:`/usr/local/lib/bareos/defaultconfigs/`
-     - :path:`/usr/local/lib/bareos/scripts/`
-     - :path:`/usr/local/lib/bareos/plugins/`
-     - :path:`/var/lib/bareos/storage/`
+     - :file:`/usr/local/etc/bareos/`
+     - :file:`/usr/local/lib/bareos/defaultconfigs/`
+     - :file:`/usr/local/lib/bareos/scripts/`
+     - :file:`/usr/local/lib/bareos/plugins/`
+     - :file:`/var/lib/bareos/storage/`
    * - macOS
      - :path:`/usr/local/bareos/etc/bareos/`
      - :path:`/usr/local/bareos/lib/bareos/defaultconfigs/`
