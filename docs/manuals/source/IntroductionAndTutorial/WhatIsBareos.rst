@@ -275,11 +275,11 @@ Bareos Paths
      - :file:`/usr/local/bareos/lib/bareos/plugins/`
      - not used
    * - Windows
-     - :path:`C:\\ProgramData\\Bareos\\`
-     - :path:`$INSTDIR\\defaultconfigs\\`
-     - :path:`$INSTDIR\\scripts\\`
-     - :path:`$INSTDIR\\plugins\\`
-     - :path:`C:\\bareos-storage\\`
+     - :file:`C:\\ProgramData\\Bareos\\`
+     - :file:`$INSTDIR\\defaultconfigs\\`
+     - :file:`$INSTDIR\\scripts\\`
+     - :file:`$INSTDIR\\plugins\\`
+     - :file:`C:\\bareos-storage\\`
 
 
 Quick Start
